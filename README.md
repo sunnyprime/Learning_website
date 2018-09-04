@@ -8,6 +8,8 @@ This is my learning website where I will put all my content of c program, Data S
 
 ```git add .```
 
+```git status```
+
 ```git commit -m "Commitment"```
 
 ```heroku git:remote --app appname```
